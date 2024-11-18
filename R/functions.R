@@ -29,3 +29,5 @@ library(sjPlot)
 library(table1)
 library(data.table)
 library(stringr)
+
+citation('glmmLasso')
